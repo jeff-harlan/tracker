@@ -9,6 +9,5 @@ given two report vector from one to another
 bearing
 elevation
 
-gimbal camera mount positioning
 
-
+http://flightaware.com/adsb/piaware/build
