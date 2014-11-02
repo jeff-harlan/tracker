@@ -1,0 +1,10 @@
+--2014-11-01 12:54:39--  http://10.20.30.249:8080/dump1090/data.json
+Connecting to 10.20.30.249:8080... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1402 (1.4K) [application/json]
+Saving to: ‘data/data.1414871679.json’
+
+     0K .                                                     100% 1.29M=0.001s
+
+2014-11-01 12:54:39 (1.29 MB/s) - ‘data/data.1414871679.json’ saved [1402/1402]
+

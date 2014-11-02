@@ -1,0 +1,9 @@
+[
+{"hex":"a001bc", "squawk":"0000", "flight":"G3342   ", "lat":37.269815, "lon":-122.038700, "validposition":1, "altitude":6025,  "vert_rate":-1280,"track":125, "validtrack":1,"speed":240, "messages":218, "seen":0},
+{"hex":"a81a3e", "squawk":"6330", "flight":"", "lat":0.000000, "lon":0.000000, "validposition":0, "altitude":20850,  "vert_rate":0,"track":0, "validtrack":0,"speed":0, "messages":112, "seen":0},
+{"hex":"a5168d", "squawk":"0000", "flight":"", "lat":0.000000, "lon":0.000000, "validposition":0, "altitude":4100,  "vert_rate":0,"track":0, "validtrack":0,"speed":0, "messages":474, "seen":0},
+{"hex":"a37e9b", "squawk":"3202", "flight":"N324QS  ", "lat":0.000000, "lon":0.000000, "validposition":0, "altitude":17500,  "vert_rate":0,"track":0, "validtrack":0,"speed":0, "messages":177, "seen":16},
+{"hex":"a86ace", "squawk":"3323", "flight":"VRD330  ", "lat":36.976547, "lon":-121.676857, "validposition":1, "altitude":26350,  "vert_rate":1664,"track":133, "validtrack":1,"speed":447, "messages":1201, "seen":145},
+{"hex":"a7d79e", "squawk":"0000", "flight":"", "lat":0.000000, "lon":0.000000, "validposition":0, "altitude":21025,  "vert_rate":0,"track":0, "validtrack":0,"speed":0, "messages":627, "seen":214},
+{"hex":"86d682", "squawk":"3333", "flight":"ANA171  ", "lat":37.307007, "lon":-122.220680, "validposition":1, "altitude":18725,  "vert_rate":2560,"track":316, "validtrack":1,"speed":360, "messages":1333, "seen":203}
+]

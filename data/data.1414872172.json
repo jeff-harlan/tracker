@@ -1,0 +1,10 @@
+[
+{"hex":"ad18a5", "squawk":"0000", "flight":"", "lat":0.000000, "lon":0.000000, "validposition":0, "altitude":0,  "vert_rate":0,"track":0, "validtrack":0,"speed":0, "messages":2, "seen":23},
+{"hex":"a42297", "squawk":"0000", "flight":"AAL23   ", "lat":37.213952, "lon":-121.952183, "validposition":1, "altitude":24875,  "vert_rate":3136,"track":127, "validtrack":1,"speed":432, "messages":415, "seen":1},
+{"hex":"a5958c", "squawk":"0000", "flight":"", "lat":0.000000, "lon":0.000000, "validposition":0, "altitude":10600,  "vert_rate":0,"track":0, "validtrack":0,"speed":0, "messages":30, "seen":64},
+{"hex":"a2fe8d", "squawk":"0000", "flight":"", "lat":0.000000, "lon":0.000000, "validposition":0, "altitude":16050,  "vert_rate":0,"track":0, "validtrack":0,"speed":0, "messages":3, "seen":152},
+{"hex":"ab3a0c", "squawk":"0000", "flight":"", "lat":0.000000, "lon":0.000000, "validposition":0, "altitude":5800,  "vert_rate":0,"track":0, "validtrack":0,"speed":0, "messages":398, "seen":86},
+{"hex":"a001bc", "squawk":"0000", "flight":"G3342   ", "lat":37.194672, "lon":-121.905758, "validposition":1, "altitude":3250,  "vert_rate":-64,"track":356, "validtrack":1,"speed":154, "messages":739, "seen":4},
+{"hex":"a81a3e", "squawk":"6330", "flight":"", "lat":0.000000, "lon":0.000000, "validposition":0, "altitude":24700,  "vert_rate":0,"track":0, "validtrack":0,"speed":0, "messages":265, "seen":131},
+{"hex":"a5168d", "squawk":"0000", "flight":"", "lat":0.000000, "lon":0.000000, "validposition":0, "altitude":3100,  "vert_rate":0,"track":0, "validtrack":0,"speed":0, "messages":663, "seen":233}
+]
