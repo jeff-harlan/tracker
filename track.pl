@@ -15,6 +15,7 @@ my $lon=-121.9736;
 my $alt=450;
 
 my $uri = "http://$ip:$port/dump1090/data.json";
+my $now = time();
 
 sub nesw { deg2rad( $_[0] ), deg2rad( 90 - $_[1] ) }
 
@@ -35,7 +36,7 @@ eval {
 	foreach my $entry (@{$text}) {
 		@arr = values %{$entry};
 		if ( $arr[1] ) {
-			print "@arr:";
+			print "$now:@arr:";
 			@them = nesw( $arr[10], $arr[3] );
 			$km = great_circle_distance( @us, @them, 6378 );
 			$deg = rad2deg( great_circle_bearing( @us, @them ));
