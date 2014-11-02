@@ -40,7 +40,8 @@ eval {
 			@them = nesw( $arr[10], $arr[3] );
 			$km = great_circle_distance( @us, @them, 6378 );
 			$deg = rad2deg( great_circle_bearing( @us, @them ));
-			$elev = 90 - rad2deg( atan2( $arr[12] - $alt, 3280.8 * $km ));
+#			$elev = 90 - rad2deg( atan2( $arr[12] - $alt, 3280.8 * $km ));
+			$elev = rad2deg( atan2( $arr[12] - $alt, 3280.8 * $km ));
 			printf "%0.3f %0.3f\n", $deg,$elev;
 		}
 	}
